@@ -1,0 +1,18 @@
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PTZControl.resources
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb
+E:\下载\CH-HCNetSDK_V5.3.5.25_build20180305_Win32\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+F:\C#\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+F:\C#\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PTZControl.resources
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.CoreCompileInputs.cache
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+F:\C#\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb
